@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Generall Cromvvell to the Parliament of England, concerning his proceedings with their army in Scotland and the late victory God hath given them over the Scottish Army there together with an act of Parliament for publique thanksgiving in England thereupon : and a proclamation of the deputy generall of Ireland for a further day of publique thanksgiving in relation to the same throughout Ireland, on Thursday the seventh of November in this present yeare, 1650.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35093</idno><idno type="EEBO-CITATION">12641470</idno>
+  <idno type="VID">65024</idno>
+  <idno type="EEBO-PROQUEST">2264185069</idno>
+  
+            <idno type="STC">Wing C7104</idno>
+            <idno type="STC">ESTC R8870</idno>
+            <idno type="OCLC">12641470</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A35093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 349:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Generall Cromvvell to the Parliament of England, concerning his proceedings with their army in Scotland and the late victory God hath given them over the Scottish Army there together with an act of Parliament for publique thanksgiving in England thereupon : and a proclamation of the deputy generall of Ireland for a further day of publique thanksgiving in relation to the same throughout Ireland, on Thursday the seventh of November in this present yeare, 1650.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>25 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Corcke :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter dated at end: Dunbar, September 4, 1650.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="corporate_name">Scotland. --  Army.</term>
+               <term type="geographic_name">Dunbar, Battle of, 1650 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65024:1"/>
+            <pb facs="tcp:65024:1"/>
+            <p>A LETTER FROM The Lord Generall <hi>CROMVVELL To the Parliament of England,</hi> Concerning his proceedings with their Army in <hi>Scotland,</hi> and the late victory God hath given them over the <hi>Scottish</hi> Army there: <hi>Together with</hi> An Act of Parliament for publique Thanks<g ref="char:EOLhyphen"/>giving in <hi>England</hi> thereupon: and a Pro<g ref="char:EOLhyphen"/>clamation of the Deputy Generall of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> for a further day of publique Thanks<g ref="char:EOLhyphen"/>giving in relation to the same throughout <hi>Ireland, On Thursday the seventh of November in this present yeare,</hi> 1650.</p>
+            <p>Printed at Corcke, in the yeare of our Lord God, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:65024:2"/>
+            <pb facs="tcp:65024:2"/>
+            <head>For the Honorable, <hi>VVilliam Lenthal</hi> Esquire, Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>I hope it is not ill taken that I make no more frequent Addresses to the Parliament; things that are of trouble in point of Provision for your Army, and of ordinary direction, I have, as I could, often presented to the Councell of State, together with such Occurrences as have happened; who I am sure, as they have not been wanting in their extraor<g ref="char:EOLhyphen"/>dinary care, and provision for us, so neither what they judge fit and necessary, to represent the same to you, and this I thought to be a sufficient discharge of my du<g ref="char:EOLhyphen"/>ty on that behalfe.</p>
+            <p>It hath now pleased God to bestow a mercy upon you, worthy your knowledge, and of the utmost praise and thanks of all that feare and love his Name; yea, the Mercy is far above all praise, which, that you may the better perceive I shall take the boldnesse to tender unto you some circumstances accompanying this great Businesse, which will manifest the greatnesse and sesonablenesse of this Mercy: we haveing tryed what wee could to engage the Enemy three or foure miles West of <hi>Edinburgh,</hi> that proving ineffectuall, and our victuall failing, we marched towards our Ships for a recruit of our want; the Enemy did not at all trouble us in our Reare, but marched the direct way towards <hi>Edinburgh,</hi> and partly in the night and morning, slips through his whole Army, and Quarters himselfe in a posture easie to interpose betweene us and our victuall; but the Lord made him lose the oppor<g ref="char:EOLhyphen"/>tunity, and the morning proving exceeding wet and dark, wee recovered by that time it was light into a ground where they could not hinder us from our victuall; which was a high act of the Lords Providence to us. We bring come into the said ground, the Enemy marched into the ground we were last upon, having no minde either to strive to interpose betwen us and our victuall, or to fight, being indeed up<g ref="char:EOLhyphen"/>on this lock, Hoping that the sicknes of your Army would render their work more easie by the gaining of time; whereupon wee marched to <hi>Muscleburgh</hi> to victuall, and to ship away our sick men, where we sent aboard neere five hundred sick and wounded Soldiers: And upon serious consideration, finding our weaknesse so to increase, and the Enemy lying upon his advantages; at a Generall Counsell it was thought fit to match to <hi>Dunbar,</hi> and there to fortifie the Town, which we thought, if any thing, would provoke them to ingage; as also that the having of a Garrison there, would furnish us with accomodation for our sick men, would be a place for a good magazine (which wee exceedingly wanted) being put to depend upon the uncertainty of weather for landing Provisions, which many times cannot be done, though the Being of the whole Army lay upon it, all the Coasts from <hi>L<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th</hi> to <hi>Berwi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> not having one good Harbor, as also to lye more conveniently to re<g ref="char:EOLhyphen"/>ceive our recruits of Horse and Foot from <hi>Berwick.</hi> Having these considerations, upon Saturday the thirtieth of <hi>August,</hi> wee marched from <hi>Muscleburgh</hi> to <hi>Hedding on,</hi> where by that time wee had got the Van-Brigade of our Horse, and our Foot and Train into their Quarters, the Enemy was marched with that exceeding expedi<g ref="char:EOLhyphen"/>tion, that they fell upon the Rere-Forlorn of our Horse, and put it in some disor<g ref="char:EOLhyphen"/>der;
+<pb facs="tcp:65024:3"/> and indeed, had like to have engaged our Rerebrigade of Horse with their whole Army, had not the Lord by his Providence put a cloud over the Moon, thereby giving us opportunity to draw off those Horse to the rest of the Army, which accordingly was done without any losse, save of three or foure of our afore<g ref="char:EOLhyphen"/>mentioned Forlorn, wherein the Enemy (as we believe) received more losse. The Army being put into a reasonable secure posture, towards midnight the Enemy attempted our Quarters on the Westend of <hi>Heddington,</hi> but (through the goodness of God) we repulsed them. The next morning we drew into an open field, on the Southside of <hi>Heddington,</hi> we not judging it safe for us to draw to the Enemy upon his own ground, he being prepossessed thereof, but rather drew back to give him way to come to us, if he had so thought fit. And having waited about the space of foure or five houres, to see if he would come to us; and not finding any inclina<g ref="char:EOLhyphen"/>tion in the Enemy so to do, we resolved to go according to our first intendment to <hi>Dunbar:</hi> By that time we had marched three or four miles, we saw some Bodies of the Enemyes Horse draw out of their Quarters; and by that time our Carriages were gotten neer <hi>Dunbar,</hi> their whole Army was upon their march after us; and indeed, our drawing back in this manner, with the addition of three new Regi<g ref="char:EOLhyphen"/>ments added to them, did much heighten their Confidence, if not Presumption and Arrogancy. The enemy that night, we perceived, gathered towards the Hills, laboring to make a perfect interposition between us and <hi>Berwick;</hi> and having in this posture a great advantage, through his better knowledge of the Countrey, which he effected by sending a considerable Party to the strait Pass at <hi>Copperspeth,</hi> where ten men to hinder, are better then forty to make their way, And truly this was an exigent to us, wherewith the Enemy reproached us with that condition the Parliaments Army was in, when it made its hard conditions with the King in <hi>Coruwal;</hi> by some Reports that have come to us, they had disposed of us, and of their business, in sufficient revenge and wrath towards our persons, and had swal<g ref="char:EOLhyphen"/>lowed up the poore Interest of <hi>England,</hi> believing that their Army and their King would have marched to <hi>London</hi> without any interruption; it being told us, wee know not how truly, by a prisoner wee took the night before the fight, <hi>That their King was very suddenly to come amongst them with those English they allowed to be about him;</hi> but in what they were thus lifted up, the Lord was above them.</p>
+            <p>The Enemy lying in the posture before mentioned, having those advantages, we lay very neere him, being sensible of our disadvantage, having some weakness of flesh, but yet consolation and support from the Lord himself to our poor weak Faith, wherein I believe not a few amongst us shared, That because of their Num<g ref="char:EOLhyphen"/>bers, because of their Advantages, because of their Confidence, because of our Weaknesse, because of our Strait, wee were in the Mount, and in the Mount the Lord would be seen, and that he would finde out a way of Deliverance and Salva<g ref="char:EOLhyphen"/>tion for us; and indeed, we had our Consolations and our Hopes. Vpon Mon<g ref="char:EOLhyphen"/>day Evening the Enemy whose numbers were very great, as wee heare about six thousand Horse, and sixteen thousand Foot, at least: Ours drawn downe, as to sound men, to about Seven thousand five hundred Foot, and three thousand five hundred Horse; the Enemy drew down to their right Wing about two thirds of their left Wing of Horse, to the right wing shogging also their Foot and Train much to the right, causing their right wing of Horse to edge down towards the
+<pb facs="tcp:65024:3"/> Sea. We could not well imagine, but that the Enemy intended to attempt upon us, or to place themselves in a more exact condition of interposition: Major Ge<g ref="char:EOLhyphen"/>nerall and my self coming to the Earle of <hi>Roxboroughs</hi> House, and observing this posture, I told him, I thought it did give us an opportunity and advantage to at<g ref="char:EOLhyphen"/>tempt upon the Enemy; to which he immediately replyed, That he had thought to have said the same thing to me; so that it pleased the Lord to set this apprehen<g ref="char:EOLhyphen"/>sion upon both of our hearts at the same instant; we called for Colonell <hi>Monk,</hi> and shewed him the thing; and coming to our Quarter at night, and demonstrating our apprehensions to some of the Colonels, they also chearfully concurred; wee resolved therefore to put our businesse into this posture, That six Regiments of Horse, and three Regiments and an half of Foot, should march in the Van, and that the Major Generall, the Lieutenant Generall of the Horse, and the Commis<g ref="char:EOLhyphen"/>sary Generall and Colonell <hi>Monk,</hi> to command the Brigade of Foot, should lead on the businesse; And that Colonell <hi>Prides</hi> Brigade, Colonell <hi>O vertons</hi> Brigade, and the remaining two Regiments of Horse, should bring up the Canon and Rere, the time of falling on to be by break of day, but through some delays it proved not to be so till six a clock in the morning: The Enemies word was <hi>The Covenant,</hi> which it had been for divers days; ours <hi>(The Lord of Hosts)</hi> The Major Generall, Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Fleetwood,</hi> and Commissary Generall <hi>VVhaley,</hi> and Colonell <hi>Twisle<g ref="char:EOLhyphen"/>tons,</hi> gave the Onset, the Enemy being in very good posture to receive them, having the advantage of their Canon and Foot against our Horse; before our Foot could come up, the enemy made a gallant resistance, and there was a very hot dispute at swords point between our Horse and theirs: Our first Foot, after they had dischar<g ref="char:EOLhyphen"/>ged their duty, being over-powered with the Enemy, received some repulse, which they soon recovered; but my own Regiment, under the Command of Lieutenant Colonell <hi>Goff,</hi> and my Major <hi>VVhite,</hi> did come seasonably in, and at the push of Pike did repell the stoutest Regiment the Enemy had there, meerely with the cou<g ref="char:EOLhyphen"/>rage the Lord was pleased to give, which proved a great amazement to the resi<g ref="char:EOLhyphen"/>due of their Foot: This being the first Action between the Foot, the Horse in the mean time did with a great deal of courage and spirit, beat back all opposition, charging through the Bodies of the Enemies Horse and their Foot, who were after the first repulse given, made by the Lord of Hosts as stubble to their swords. In<g ref="char:EOLhyphen"/>deed, I believe I may speak it without partiality, both your Chief Commanders, and others in their severall places, and Soldiers also, were acted with as much courage, as ever hath been seen in any Action since this War: I know they look not to be named, and therefore I forbeare particulars. The best of the Enemyes Horse and Foot being broken through &amp; through in lesse then an houres dispute, their whole Army being put into confusion, it became a totall Rout, our men ha<g ref="char:EOLhyphen"/>ving the chase and execution of them neere eight miles; we believe that upon the place and neere about it, were about three thousand slaine, Prisoners taken of their Officers you have this enclosed List, of private Soldiers neere ten thousand, the whole Baggage and Train taken, wherein was good store of Match, Powder and Bullet, all their Artillery great and small, thirty Guns; we are confident they have left behinde them not lesse then Fifteen thousand Armes: I have already brought in to me neere two hundred Colours, which I herewith send you; what Officers of quality of theirs are killed, we yet cannot learn: But yet surely divers are, and many men of quality are mortally wounded, as Colonel <hi>Lumsdel,</hi> the Lord <hi>Liber<g ref="char:EOLhyphen"/>ton,</hi>
+               <pb facs="tcp:65024:4"/> and others, and that which is no small addition, I doe not believe we have lost twenty men, not one Commissioned Officer slaine that I heare of, save one Corner, &amp; Major <hi>Rooksby</hi> since dead of his wounds, and not many mortally wounded, Col. <hi>VVhaley</hi> only cut in the Hand-wrist, and his Horse twice shot and killed under him, but hee well, recovered another Horse; and went on in the Chase: Thus you have the prospect of one of the most signall mercies God hath done for <hi>England</hi> &amp; his People this War. And now may it please you to give me leave of a few words, It is easy to say; the Lord hath done this, it would do you good to see and heare our poore Foot go up &amp; down making their boast of God, but Sir, It is in your hands, and by these eminent mercies, God puts it more into your hands to give glory to him, to improve your Power &amp; his Blessings to his prayse; we that serve you, beg of you, not to own us, but God alone, we pray you owne his people more and more, for they are the Chariots and Horsemen of <hi>Israel;</hi> disown your selves, but own your Authority and improve it, to curb the proud &amp; the insolent, such as would disturbe the tranquility of <hi>England,</hi> though under what specious pretences soever, relieve the oppressed, heare the groans of poor Prisoners in <hi>England:</hi> Be pleased to reforme the abuses of all Pro<g ref="char:EOLhyphen"/>fessions, and if there be any one that maks many poor to make a few rich, that suits not a Commonwealth. If he that strengthens your Servants to Fight, pleases to give you hearts to set upon these things in order to his glory, &amp; the glory of your Com<g ref="char:EOLhyphen"/>monwealth, besides the benefit <hi>England</hi> shall feele thereby, you shall shine forth to other Nations, who shall emulate the glory of such a patern, and though the power of God turne into the like. These are our desires, and that you may have liberty and opportunity to do these things &amp; not to be hindred, we have been &amp; shall be (by Gods assistance) willing to venture our lives, &amp; not desire you should be precipitated by importunities from your care of safety and Preservation; but that the doing of these good things may have their place amongst those which concerne well being, &amp; so be wrought in their time and order. Since we came in <hi>Scotland,</hi> it hath been our desire and longing to have avoided blood in this businesse, by reason that God hath a people here fearing his Name, though deceived, &amp; to that end have we offe<g ref="char:EOLhyphen"/>red much love unto such in the bowels of Christ; and concerning the truth of our hearts therein, have we appealed unto the Lord The Ministers of <hi>Scotland</hi> have hin<g ref="char:EOLhyphen"/>dred the Pasage of these things to the hearts of those to whom we intended them, &amp; now we heare, that not only the deceived people, but some of the Ministers are also fallen in this battell. This is the great hand of the Lord, and worthy of the con<g ref="char:EOLhyphen"/>sideration of all those, who taking into their hands the instruments of a foolish Shepherd, to wit, medling with worldly pollicies, and mixtures of earthly power, to set up that which they call the Kingdome of Christ, which is neither it, nor if it were it, would such meanes be found effectuall to that end, &amp; neglect, or trust not to the Word of God, the Sword of the spirit, which is alone powerfull and able for the setting up of that Kingdom, and when trusted to, will be found effectually able to that end, and will also do it. This is humbly offered for their sakes, who having lately too much turned aside, that they might retune again to Preach Iesus Christ, according to the simplicity of the Gospell, and then no doubt they will discerne &amp; finde your protection and encouragement, beseeching you to pardon this length, I humbly take leave, and rest,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your most humble Servant,</hi>
+                  <lb/> O. CROMWELL</signed>
+               <dateline>
+                  <hi>Dunbar</hi>
+                  <date>
+                     <hi>September</hi> 4.<lb/> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb facs="tcp:65024:4"/>
+            <head>A list of such prisoners taken at the Fight.</head>
+            <list>
+               <item>SIR Iames Lomsden</item>
+               <item>Lieut. Gen. of Foot.</item>
+            </list>
+            <list>
+               <head>Colonels.</head>
+               <item>Col: Sir VVill: Douglas</item>
+               <item>Col: VVill: Domsden.</item>
+               <item>Colonel Gurdon.</item>
+            </list>
+            <list>
+               <head>Lieutenant Colonels</head>
+               <item>Lieut: Col. VVallis.</item>
+               <item>Lieut: Col. Lesley.</item>
+               <item>Lieut: Col. Murray.</item>
+               <item>Lieut: Colonel Henry Malvin.</item>
+               <item>Lieut: Col. Arthur Forbis.</item>
+               <item>Lieut: Col. Francis VVanhap of Horse.</item>
+               <item>Lieut: Col. Dunbarre.</item>
+               <item>Lieut: Col. Hamilton.</item>
+               <item>Lieut: Col. Crawford.</item>
+               <item>Lieut: Col. Ingles.</item>
+               <item>Lieut: Col. Iohn Montgomery.</item>
+               <item>Iames Bickerton Adjutant Gen. of Horse.</item>
+            </list>
+            <list>
+               <head>Majors.</head>
+               <item>Henry Carmihil, of Foote.</item>
+               <item>Iames Cranster, of Horse.</item>
+               <item>George Moat, of Foote.</item>
+               <item>VVilliam Stringer, of Foote.</item>
+               <item>Iohn Steward, of Foote.</item>
+               <item>George Forbes, Reformado.</item>
+               <item>Moor.</item>
+               <item>Oagle.</item>
+               <item>Freeste.</item>
+            </list>
+            <list>
+               <head>Captaines of Foote.</head>
+               <item>Iames Sterlyn.</item>
+               <item>Francis Agnue.</item>
+               <item>Sibbald.</item>
+               <item>Alex. Monpreff.</item>
+               <item>George Holliburton.</item>
+               <item>Thomas Brown.</item>
+               <item>VVilliam Murray.</item>
+               <item>Iames Scot.</item>
+               <item>VVilliam Rudderford.</item>
+            </list>
+            <list>
+               <head>Captains of Foot.</head>
+               <item>Iames Macularoy</item>
+               <item>Hugh Montgomery</item>
+               <item>Iames Aken</item>
+               <item>George Smith</item>
+               <item>Iohn Macelellum</item>
+               <item>Robert Mackellam</item>
+               <item>Hugh Madole</item>
+               <item>George Pringle</item>
+               <item>Robert Scot</item>
+               <item>Alexander VVood</item>
+               <item>Robert Hamilton</item>
+               <item>Tho: Gray</item>
+               <item>Robert Adamson</item>
+               <item>Beton.</item>
+            </list>
+            <list>
+               <head>Captains of Horse &amp; Foot.</head>
+               <item>Robert Duncan</item>
+               <item>Robert Maccaulla</item>
+               <item>VValter Scot</item>
+               <item>Matthew Creshton</item>
+               <item>Iames Steward</item>
+               <item>VVilliam Douglas</item>
+               <item>VValter Lesley</item>
+               <item>VVil: Manhop, of Horse</item>
+               <item>Iames Borthuk</item>
+               <item>David Murray</item>
+            </list>
+            <list>
+               <head>Captains of Horse.</head>
+               <item>Iohn Murray</item>
+               <item>VVilliam Burton</item>
+               <item>Iames Cam<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</item>
+               <item>VVilliam Bresbone, of Horse</item>
+               <item>VVilliam Danrimple</item>
+               <item>Charles Kerkpatrick.</item>
+               <item>Nicholas Lawson.</item>
+               <item>Robert Rudderford</item>
+               <item>Iohn Car</item>
+               <item>Doundass</item>
+               <item>Ogleby</item>
+               <item>Gourdon</item>
+               <item>Bonner</item>
+               <item>Lieut: Bruse, Lieutenant of Horse.</item>
+            </list>
+            <list>
+               <head>Cornets of Horse.</head>
+               <item>VVilliam Cunningham</item>
+               <item>Iames Maxwell</item>
+               <item>Iames Denham</item>
+               <item>Iames Magill</item>
+               <item>VValter Steward</item>
+               <item>Iohn Hay</item>
+               <item>Anthony Ma<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>doer</item>
+               <item>Iohn Brown</item>
+            </list>
+            <list>
+               <head>Cornets of Horse.</head>
+               <item>Alexander Michil</item>
+               <item>Iohn Collerwood</item>
+               <item>George VVinder<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m.</item>
+            </list>
+            <list>
+               <head>Captaines Lieut: of Horse and Foote.</head>
+               <item>Iohn Monnergain</item>
+               <item>VVilliam Em ty</item>
+               <item>VVilliam Blayer</item>
+               <item>Robert Anders<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</item>
+               <item>Roger Holden</item>
+               <item>Rob<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt VVood</item>
+            </list>
+            <list>
+               <head>Liutenants of Foot.</head>
+               <item>Iames Cunningham</item>
+               <item>Iames Blackwood</item>
+               <item>Patrick Macknab</item>
+               <item>Henry Cunningham</item>
+               <item>Lancelot Car</item>
+               <item>Iohn Macknight</item>
+               <item>Iohn Heum<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Iohn Gourdon</item>
+               <item>George Cunningham</item>
+               <item>Iames VVeare</item>
+               <item>Henry Eston</item>
+               <item>VVilliam Gun</item>
+               <item>Nicholas C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>slon</item>
+            </list>
+            <list>
+               <head>Lieut: of Foot</head>
+               <item>Alexexander Steward</item>
+               <item>Arthur Steward</item>
+               <item>VVilliam Petre</item>
+               <item>Norman Lesley</item>
+               <item>VVilliam Bailey</item>
+               <item>VVilliam Gladston</item>
+               <item>Robert Hamberton</item>
+               <item>George Mackburny</item>
+               <item>Robert Straughan</item>
+               <item>Richard Allen</item>
+               <item>Iames Mack<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey</item>
+               <item>George Bisset</item>
+               <item>Iames Nicols</item>
+               <item>Thomas Menni<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>VVilliam Sinn<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>Iohn Car</item>
+               <item>Alexander Car</item>
+               <pb facs="tcp:65024:5"/>
+               <item>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mes Tw<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de</item>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilip Leech</item>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames Armer</item>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames Sayers</item>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Meer</item>
+               <item>Andrew Pennere</item>
+               <item>Patrick Baily</item>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Camil</item>
+            </list>
+            <list>
+               <head>Lieutenants of Foot.</head>
+               <item>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Rich</item>
+               <item>Iohn Steward</item>
+               <item>Iohn Camil</item>
+               <item>Allen Osborn</item>
+               <item>VVilliam Knocks</item>
+               <item>Iohn VVilson</item>
+               <item>Thomas Anderson</item>
+               <item>VValter VVanhap</item>
+               <item>Patrick Holliburton</item>
+               <item>Lancelot Car</item>
+               <item>VVilliam Engley</item>
+               <item>Thomas Car</item>
+               <item>Alexander Gourdon</item>
+               <item>Andrew Hatly</item>
+               <item>Samuel Gourdon</item>
+               <item>Lancaster Forguson</item>
+               <item>Robert Rankin</item>
+               <item>Charles Colman</item>
+               <item>Iohn Lewson</item>
+               <item>Andrew Guiler</item>
+               <item>George Paterson</item>
+               <item>Thomas Hutchen</item>
+               <item>Iohn Ennis</item>
+               <item>Iohn Sken</item>
+               <item>Iohn Hunter</item>
+            </list>
+            <list>
+               <head>Lieutenants of Foot</head>
+               <item>Iohn Mackdoughal</item>
+               <item>Andrew Drumon</item>
+               <item>George Lesley</item>
+               <item>George Moat</item>
+               <item>Francis Scot</item>
+               <item>VVilliam Ellot</item>
+               <item>Alexander Ciff</item>
+               <item>Iohn Dengni<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>Quartermasters of Horse.</head>
+               <item>Thomas Richman</item>
+               <item>VVilliam Forbis.</item>
+            </list>
+            <list>
+               <head>Ensigns</head>
+               <item>Kilpatrick</item>
+               <item>VValter Macdoughil</item>
+               <item>VVilliam Sinclare</item>
+               <item>George Iack</item>
+               <item>Hartley Gadley</item>
+               <item>VVilliam Carnecuse</item>
+               <item>Thomas VVallis</item>
+               <item>Iames Rolston</item>
+               <item>Andrew Myn</item>
+               <item>Iames Bennet</item>
+               <item>Iohn Linsey</item>
+               <item>Andrew Hanna</item>
+               <item>Thomas Pringle</item>
+               <item>Robert Hamilton</item>
+               <item>Iames Delop</item>
+               <item>Iohn Gray</item>
+               <item>Iames Edward</item>
+               <item>Collin Camil</item>
+            </list>
+            <list>
+               <head>Heatly</head>
+               <item>Robert Roy. Gilbert Harral</item>
+               <item>Iames Musket</item>
+               <item>VVilliam Sample</item>
+               <item>Robert Ogleby</item>
+               <item>Robert VVilliamson</item>
+               <item>VVilliam Lesley</item>
+               <item>Ersby Shields</item>
+               <item>Robert Haborn</item>
+               <item>VVilliam Scot</item>
+               <item>Iames Edminston</item>
+               <item>Robert Lawson</item>
+               <item>Iames Nei<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</item>
+               <item>Andr: Barthick</item>
+               <item>Geo: Elphenston</item>
+               <item>Iohn Fairdise</item>
+               <item>Henry VVhite</item>
+               <item>Andrew Dunalson</item>
+               <item>David Camide</item>
+               <item>Iohn Camil</item>
+               <item>Cornelius Engles</item>
+               <item>Dio<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>car Camil</item>
+               <item>Patrick Canburn</item>
+               <item>VVilliam Mannord</item>
+               <item>Robert Craw</item>
+               <item>George Calley</item>
+               <item>Iames Rudderford</item>
+               <item>VValter Scot</item>
+               <item>VValter Steward</item>
+               <item>Robert Heume</item>
+               <item>Iames Forquer</item>
+               <item>Iames Macknath</item>
+               <item>Henry Ackmen</item>
+               <item>Iohn VVayer</item>
+               <item>Iohn Brown</item>
+               <item>VVilliam Chapman</item>
+               <item>Iohn Macuo</item>
+               <item>Alexander Spence</item>
+               <item>Iohn Black</item>
+               <item>Thomas Thompson</item>
+               <item>Robert Fryer</item>
+               <item>Iohn Tompson</item>
+               <item>Iohn Dixon</item>
+               <item>Gorge Smith</item>
+               <item>Alexan. Iohnston</item>
+               <item>VVilliam Egger</item>
+               <item>David Grant</item>
+               <item>George Gayler</item>
+               <item>Iohn VVallis</item>
+               <item>Iohn Kemmen</item>
+               <item>Thomas Enderson</item>
+               <item>Iames Brewse</item>
+               <item>VVilliam Maclan</item>
+               <item>Iohn Carmihil</item>
+               <item>VVilliam VVatson</item>
+               <item>VVilliam Anderson</item>
+               <item>Iames Dunbar</item>
+               <item>Iames Elderwood</item>
+               <item>Henry Roy</item>
+               <item>Thomas Boyd.</item>
+               <item>David Reed.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:65024:5"/>
+            <head>An Act of Parliament for setting apart Twesday next for a day of thanksgiving, together with a narrative Declara<g ref="char:EOLhyphen"/>tion of the grounds and reasons thereof.</head>
+            <p>IF any Nation in the world hath at this day upon them mighty and strong obli<g ref="char:EOLhyphen"/>gations unto the Lord for his peculiar manifestations of mercy and goodnesse unto them, wherein he hath filled with admiration and astonishment all that have been Spectators and Observers of the outgoings of his power in delive<g ref="char:EOLhyphen"/>rance and preservations, It is the Parliament and people of <hi>England,</hi> in the middst of whom the Lord hath walked must eminently for these ten yeares last past, and con<g ref="char:EOLhyphen"/>stantly exercised them by various and wonderfull providences, being pleased to make use of a few weake &amp; unworthy Instruments contemptible in the eyes of Men to bring great things to passe, and carry on his owne worke, that the power might appeare to be of God &amp; not of man, and this in the weakest &amp; lowest conditions of his Servants when we have been reduced to the greatest streights, and had as it were the sentence of death in our selves, and our Enemyes heightned and hardned in their power and multitudes in their confidences even to pride and arrogancy ready to swallow us up and destroy us, so that upon most of the victoryes vouchsafed un<g ref="char:EOLhyphen"/>to us there hath been written in broad &amp; visible characters, this hath God wrought, thus far hath God helped us.</p>
+            <p>And as it hath been the duty of all persons in this Commonwealth, especially those that feare the Lord to observe these his marvellous and gracious dispensati<g ref="char:EOLhyphen"/>ons, and be taught by them not onely to submit unto and close with the actings &amp; appearances of the Lord, who worketh all things according to the Councell of his owne will, But to be inlarged in rejoyceings and thankfull acknowledgments, and to trust him in like streights for time to come, so the memoriall of such mercyes &amp; glorious deliverances of the Almighty deserve to be transmitted to Posterity, and for ever recorded unto his prayse.</p>
+            <p>In the number of these, and as that which may have the first place, the Parlia<g ref="char:EOLhyphen"/>ment is most exceedingly affected with the late wonderfull and gracious dealings of the Lord towards their Army under the comand of their present Generall, Gene-<hi>Cromwell</hi> in <hi>Scotland,</hi> and with the glorious victories which he hath there wrought for them in an unexpected season against the <hi>Scots,</hi> for which unestimable blessing of God unto the Parliament and people of <hi>England,</hi> inriched with so many remar<g ref="char:EOLhyphen"/>kable circumstances that all along evidence his Divine presence, this Common<g ref="char:EOLhyphen"/>wealth can never be sufficiently thankfull, especially if it be considered, that in this is given in a seale and confirmation from Heaven of the justnesse of our cause, and the sincerity of his servants, that are his unworthy Instruments in carrying of it on; after that most solemne appeales which were made on both sides to God himselfe the most righteous judge in this necessitated warre betwixt <hi>England</hi> and <hi>Scotland,</hi> and that all meanes of Christian Love and tendernesse towards those, that beare the name of godlynesse in the <hi>Scottish Nation,</hi> have been used to informe and perswade
+<pb facs="tcp:65024:6"/> them, and prevent (if it had been the will of God) a disposition by the sword and the same rejected.</p>
+            <p>And indeed such is the riches and fulnesse of this high and unexpressible mercy, that the value and consequence thereof is not in a short time to be apprehended, But is of that nature, as succeeding Generations will be tasting the sweet and good of it, as often as they looke back upon it, and penetrate into it, for in the bosome of it, is comprehended the safety of all, that hath been fought for these seaven yeares past, and together with this victory, God hath renewed being and Life it selfe to this Commonwealth, and the government thereof, whose totall ruine and subversion was not onely contained, and designed, but also ripened unto an accomplishment, by all the enemies of it, under the fairest vizards and disguises they could cloath themselves with, that is to say, of the cause of God, the Covenant, and Priviledges of Parliament, the more easily to seduce and deceive a party within this Nation, who lay waiting for it, and to concenter in one all their strength, that could be heapt up together, of various destructive Interests unto the power of godlynesse, and the true liberty and freedome of the People; the maintenance whereof is so much in the desires and endeavors of the Commonwealth.</p>
+            <p>In this combination the Popish, Prelaticall, prophane, and Malignant partyes stood behind the curtaine, and seemed for a season to be quite laid aside, that the cause of God, the Covenant; and worke of Reformation might beare the name, and the Promoters thereof the onely power and sway, through whose seeming credit &amp; authority our hands might be weakned, our cause blemished, and generall insurre<g ref="char:EOLhyphen"/>ctions from all parts of <hi>England</hi> procured and so obtaine that through deceipt and hipocrisy joynd with power, which by force alone they durst not attempt, as have<g ref="char:EOLhyphen"/>ing found by frequent and deare experiences the hand of God drawne out against them, as often soever as they appeared in a way of meere and open force, and now when their designe was thus subtilly and dangerously laid, and the Enemy in his owne thoughts was in so faire a way of accomplishing thereof, that they doubted nothing lesse then having our Army at their mercy, and marching up unto <hi>London</hi> without opposition, with their new King, at the head of theirs, the following nar<g ref="char:EOLhyphen"/>rative will declare how sodainly the Lord turned himselfe against them and arose like a Giant refresh'd with wine, bestowing upon <hi>England</hi> the most seasonable and wonderfull victory over his Enemyes, that it hath ever knowne and been made partaker of.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="narrative">
+                        <head>THE NARRATIVE.</head>
+                        <p>AFter the march of our Army into <hi>Scotland,</hi> upon the grounds of Iustice and necessity, and in the prosecution of those ends before declared by us, and that all meanes had been used by the Generall, and his Councell of War, for to prevent the effusion of blood, and bringing the guilt of it upon their own heads, which might incurre upon their obstinacy, especially of such as we be<g ref="char:EOLhyphen"/>lieved it might feate God in the <hi>Scottish Nation,</hi> our Army did often presse upon them, and severall times tempt them to ingage with us, which they did as often a<g ref="char:EOLhyphen"/>voyd, waiting for their advantage over us by our weaknings and sicknesse, and their owne strenghtning, by the continuall accesse of Forces to them, and when it was
+<pb facs="tcp:65024:6"/> found, notwithstanding all wayes used by us, it would worke no effect to sight: It was at length by the Generall and his Councell concluded to march with the A<gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>my back as farre as Dunbar for the more convenient supplying it with victualls and providing for our sicke and weake Men, who fell so fast downe with the Flux that wee were compelled to ship away at <hi>Muskeleborough</hi> five hundred of them.</p>
+                        <p>The Enemy mistaking the grounds of our march, tooke courage on a soddain perswading themselves wee now durst not ingage with them, as verily imagining we had with our sick Men shipped away our Ordnance already (which was indeed only sent away with a party towards <hi>Haddington</hi>) &amp; having been informed that we intended after we were come to <hi>Dunbar,</hi> to send away all our Infantry by Sea, and with our horse to returne back into <hi>England,</hi> between which and our Quarters then they knew there were many passes, where they might have an advantage to an<g ref="char:EOLhyphen"/>noy us.</p>
+                        <p>Vpon our rising therefore from <hi>Muskleborough</hi> the last of <hi>August,</hi> our Army having with them but foure dayes provision, the Enemy, who by the coming of their Kings guard of <hi>English;</hi> and severall other recruits from the North to them, was made effe<g ref="char:EOLhyphen"/>ctively twenty two thousand Men, ours being weakned to eleven thousand, rise also and marched close after us; attempting the disordering of our Rere, especially up<g ref="char:EOLhyphen"/>on the lodging our Army at <hi>Haddington,</hi> whither coming neere night, and having passed most of our men over the River, the Enemy fell on so hot, that though wee brought up our Rere Brigade of horse to succor our Rere Forlorne, which the Ene<g ref="char:EOLhyphen"/>my had fallen and broken in upon, yet we could not have come off without a con<g ref="char:EOLhyphen"/>siderable losse (the Enemyes whole Army beeing neere at hand) had not the good<g ref="char:EOLhyphen"/>nesse of God seasonably interposed by his providence, and so ordered it, that a dark cloud passed over the Moone, we had the opportunity given us of drawing off our horse againe, undiscerned by the Enemy, and of sheltring it with our Foot, and the rest of the Army by <hi>Haddington-Towne-side,</hi> the Enemy having got nothing by the scuffle.</p>
+                        <p>The whole Body of the Enemies Army lying about two miles off the Town, about midnight they sent up a party of Horse and Foot to try what successe they should have upon our Quarters, the Generall having notice of their approach, comanded out Captaine <hi>VVhite</hi> with his Troope to charge them, which he accordingly did, but meeting with greater numbers, of Horse and Foot, then was expected, was put to a retreate, the Enemy pursueing to the Town-walls, the Generall drawing out an<g ref="char:EOLhyphen"/>other party, they retired to their Army, leaving without any losse of ours, some few of their Men slaine: the next morning the Enemy lying upon a very good ground for battell, our Army put themselves into order, as thinking it had been the Ene<g ref="char:EOLhyphen"/>myes intention to fight, and moving towards them there, where the Enemy had drawn some of his Men over a Passe, the Enemy thinking then not his best time, cō<g ref="char:EOLhyphen"/>manded his Men back againe, and the River interposing our Army, faced them in this order foure or five houres, when a motion was made by some of the Officers to send to them to offer them battaile, but this proposall tooke no effect, as judging it not fit to anticipate the time, and designe of providence, which they had ever found best patiently to wayte upon, perceiving therefore they would come to no
+<pb facs="tcp:65024:7"/> resolurion to fight, the Army proceeded to their march againe to <hi>Dunbar,</hi> and the Enemy having received a fresh recruite of three new Regiments, sent some of our Men that they had taken Prisoners in to informe us of their supply; and that they were now bent to fight us, their confidence upon this supply with their former mi<g ref="char:EOLhyphen"/>stakes of us, being greatned to a very high degree, so that they followed out Army with that eagernesse, that before we got within a mile of <hi>Dunbar,</hi> where wee came that night, their whole bodyes of Horse and Foot were in our Rere, within Cannon<g ref="char:EOLhyphen"/>shot, where our whole Army being to passe over a small River that had pretty high bancks, made a halt and drew up againe in Battalia the Enemy againe declined to joyne, and espyed an advantage he had, drew off to the right hand, matching in great hast to possesse himselfe of some hills, that did intercept betwixt us, and <hi>Eng<g ref="char:EOLhyphen"/>land</hi> which hee accordingly did, wee being not able to prevent it (without leaving our Traine and provisions behind us) his Campe over-looking our Army, and send<g ref="char:EOLhyphen"/>ing afterwards a considerable number of Horse, did possesse themselves likewise of the passe at <hi>Coperspeth,</hi> we placing our Tents in the meane time close by the Sea, and leaving <hi>Dunbar</hi> behind us.</p>
+                        <p>Here began the pride of the <hi>Scots Army</hi> so to swell as they quite forgot an overtu<g ref="char:EOLhyphen"/>ling Providence, their Scouts upbraiding us, they now had us safe enough, and that though they had afforded us a Summers-Quarters, they hoped to have it quickly repaid them, when they come to take up their Winter-Quarters, intending (as they say) to convey up our Rere for us to <hi>London,</hi> yea so farre had their passion blinded them, and their presumption prevayled upon them, that (as we were informed) by some of their owne) they sat in consultation, what conditions it was fit they should offer us, whether or no, Quarter was to be allowed to any for their lives, to whom, and upon what tearmes.</p>
+                        <p>And indeed, many were the difficulties at that time it pleased the Lord to set be<g ref="char:EOLhyphen"/>fore our Army and indeed the ground the Enemy had got was unaccessible, and not possible for us to ingage him upon, without apparent danger on eyther hand &amp; on the Rere of our Army was the Sea, and before them only a narrow passe, and the hills where the Enemy lay, nor were we without streights in our selves, our Army being so sickly as a hundred of them fell down of a day, and our Provision growing scanty for those that were well.</p>
+                        <p>But in this begun the Wisdom, Power, and Goodnesse of God, the more to break forth in upholding (notwithstanding) the hearts both of the Officers, and Soldiers, quietly and patiently to expect the glorious appearance of his divine presence in this their distresse, of which they had oftimes humbly boasted, and by which they had no time hitherto been deserted: All the next day we lay still, towards the even<g ref="char:EOLhyphen"/>ing, on monday the Enemy drew out neere three parts of foure of their Horse, South of <hi>Dunbar,</hi> intending to interpose and shut up quite the way of our Army to <hi>Berwick,</hi> which the Generall observing, declared to <hi>Major Generall Lambert,</hi> that now in his apprehension there was an opportunity given of attempting something upon the Enemy, which the Major Generall having at the same time upon his spirit also, was about to prevent him in, and after advice taken with a Councell of Officers, who were all consenting, it was resolved to be ordered in this manner, that six Regi<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:65024:7"/> of Horse and three Regiments &amp; halfe of Foot under the comand of the Ma<g ref="char:EOLunhyphen"/>jor Generall should fall on first, and that foure Regiments &amp; halfe of Foot &amp; tw<gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Regiments of Horse should bring up the Cannon and Rere, the time of the onset to be at break of day.</p>
+                        <p>The night proved blustring &amp; wet, so that our Army fell not upon the Enemy a<gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> the houre appointed, till it was somewhat later in the morning, their motions be<g ref="char:EOLunhyphen"/>ing soone described by the Enemy, who before any of ours came up, had put him<g ref="char:EOLhyphen"/>selfe in so good a posture to receive him, as he had the advantage of his Cannon &amp; Foot against our Horse, only, which according to order first charged the Enemy while that our Foot was coming up, opposition was made by the Enemy with very great resolution, a very hot dispute at Swords point being between our Horse and theirs, five Companies of our Foot, that were first cōmanded out, after they had discharged their duty being overpowred by the Enemy, received some repulse; which they soone recovered, the Generalls Regiment timely coming in, who (God eminently assisting them with courage) at the Push of Pike did breake the stoutest Regiment the Enemy had and totally routing them, did full execution upon them which proved as great an advantage to us as it was a terror and amazement to the residue of their Foot, nor was the issue in the meane time lesse successefull in our Horse, who being carryed on by the same Divine Power and presence, did with a great deale of spirit &amp; valor, daunt the resolution of the Enemy, charging thorough and thorough the bodyes both of the Enemyes Horse, and Foot, who after the first repulse, were as stubble before them, and now the best of the Enemyes Horse, and Foot, being in lesse then an houres dispute broken, and their whole Army put into confusion, it became a totall Rout, our Men having the chase, &amp; execution of them neere eight miles: In all which fight notwithstanding it is credibly affirmed, out Army lost not thirty Men, so great was the mercy &amp; protection of God over them.</p>
+                        <p>And thus in the thing wherein they dealt proudly, the Lord showed himselfe a<g ref="char:EOLhyphen"/>bove them, causing their foot to slide in their duest time, even when he had reduced our Army into such streights, that only roome was left for believing, while our Ar<g ref="char:EOLhyphen"/>my had rested themselves, and given thanks to God for this Great Victory, was preparing their match to <hi>Edingborough;</hi> Newes was brought to the Generall, that <hi>E<g ref="char:EOLhyphen"/>dingborough</hi> and <hi>Leith</hi> was both quitted, the Provost of <hi>Edingborough</hi> having acquain<g ref="char:EOLhyphen"/>ted the people of the overthrow of their whole Army, unsafety of their present con<g ref="char:EOLhyphen"/>dition, and that visibly, there was nothing that appeared, that could protect them; whither our Army, soone after marching did quietly take up their Quarters, not meeting with the least resistance, the Enemy being retired to the other side of the <hi>Sturling.</hi>
+                        </p>
+                        <p>In this Battayle were killed upon the place and neere about it above foure thou<g ref="char:EOLhyphen"/>sand Men; of private Soldiers, taken Prisoners, above ten thousand: of their Horse taken, killed, and made unserviceable, above two thousand; Commission Officers taken Prisoners, as Colonels, Lieutenant Colonels, &amp;c. about two hundred and ninety, two of their Committee of Estates take Prisoners, the Lord <hi>Liberton,</hi> and <hi>Sir Iames Lumsden,</hi> who was also Lieutenant Generall of their Foot, and some of their Ministers, the foote Armes taken were about fifteene thousand, about two hundred
+<pb facs="tcp:65024:8"/> Colors taken, two &amp; thirty pieces of Ordinance, with the rest of their Artillery, Bag, <gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd Baggage, with all their Ammunition taken, there was not above five thou<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>and Horse, and Foot of ours ingaged in this Battaile, the Enemyes word was the Covenant, ours the Lord of Hosts, who manifested himselfe to be with us, their <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ing (as some of the Prisoners said) was within a day or two expected to have <gap reason="illegible: page cropped" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ome into their Army.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <seg rend="decorInit">T</seg>He serious consideration of all which, as it doth give the Parliament great cause of thankfulnesse unto God for this his unspeakable goodnesse, so they doe most earnestly desire, that the whole Nati<g ref="char:EOLhyphen"/>on, together with themselves may be deeply sensible of the same and therefore they doe in act and ordaine and be it inacted and or<g ref="char:EOLhyphen"/>dained by this present Parliament, and the Authority thereof, that Twesday the eight day of <hi>October</hi> one thousand six hundred &amp; fifty be set apart for a day of thanksgiving and holy rejoycing in all the Churches and Chappells within <hi>England, VVales,</hi> and Towne of <hi>Berwick</hi> upon <hi>Tweed</hi> for this great mercy, and that the Ministers of the respective Parishes and places aforesaid be and are required &amp; injoyned to give notice on the Lords day next preceding the said eight day of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> of the day so to be observed to the end the People of their severall Congregati<g ref="char:EOLhyphen"/>ons may the more generally and diligently attend the publicque exercises of Gods worship and service there to be dispensed upon that occasion. At which time that the People may be particulerly and fully informed of this great deliverance and suc<g ref="char:EOLhyphen"/>cesse the said Ministers are hereby injoyned to read this Act and Narrative. And for the better observation of the day the Parliament doth inhibite and forbid the hold<g ref="char:EOLhyphen"/>ing or use of any Marketts, Faires, or other servile works of that day, Mens ordina<g ref="char:EOLhyphen"/>ry Callings upon that day. And all Majors, Sheriffes, Iustices of Peace, Constables, and other Officers be and are hereby enjoyned to take especiall care of the due ob<g ref="char:EOLhyphen"/>servance of the said day of thanksgiving accordingly.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:65024:8"/>
+            <head>A Letter from the Lord Lieutenant, to the Lord Deputy Generall of Ireland.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>Though I heare not often from you yet I knowe you for<g ref="char:EOLhyphen"/>get mee not, thinke so of mee, for I often remember you at the throne of Grace, I heard of the Lords good hand with you in reducing <hi>VVaterford, Dunca<g ref="char:EOLhyphen"/>non,</hi> and <hi>Caterlogh,</hi> his Name be praised.</p>
+            <p>Wee have been engaged upon a service the fullest of tryall ever poore creatures were upon, wee made great professions of love, knowing wee were to deale with ma<g ref="char:EOLhyphen"/>ny who were Godly, and pretended to be stumbled at our invasion; indeede our bowels were peirced againe &amp; againe, the Lord helped us to sweet words, and in since<g ref="char:EOLhyphen"/>rity to meane them, we were rejected againe and againe, yet still wee begged to be beleived that wee loved them as our owne soules, they often returned evill for good.
+<pb facs="tcp:65024:9"/> wee prayed for security, they would not heare our an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer a word to that, wee made often appeales to God. They appealed also. Wee were neere engagements three or foure times, but they lay upon advantages. A heavie flux fell upon our Army, brought it very lowe, from 14. to 11 thousand: 3500 horse, And 7500. Foote: the E<g ref="char:EOLhyphen"/>nemy, 16000. Foote and 6000. horse. The Enemy pro<g ref="char:EOLhyphen"/>secuted the advantage, wee were necessitated, and upon <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <seg rend="sup">ber</seg> the 3<seg rend="sup">d</seg> by six in the morning we attempted their Army after a hot dispute for about an howre, wee routed their whole Army killed neere 3000. &amp; tooke as the Mar<g ref="char:EOLhyphen"/>shall informes me ten thousand Prisoners, their whole Traine being about thirty peices great and small, good store of powder match and bullett, neere two hundred Colors, I am perswaded neere fifteene thousand Armes left upon the ground. And I beleive though many of ours be wounded wee lost not above thirtie men. Before the fight our condition was made very sad, the Enemy greatly insulted, and menaced, but the Lord upheld us with Comfort in himselfe, beyond ordinary experience. I knowing the acquainting you with this great handy worke of the Lord would stirr up your minds to praise &amp; rejoycing, and not knowing but your condition may re<g ref="char:EOLhyphen"/>quire mutual experiences for refreshment, and know<g ref="char:EOLhyphen"/>ing also that the newes we had of your successes was mat<g ref="char:EOLhyphen"/>ter of helpe to our fayth in our distresse, and matter of praises also, I thought fitt (though in the middest of
+<pb facs="tcp:65024:9"/> much businesse) to give you this account of the un<g ref="char:EOLhyphen"/>speakeable goodnesse of the Lord, who hath thus ap<g ref="char:EOLhyphen"/>peared to the Glory of his great Name and the refresh<g ref="char:EOLhyphen"/>ment of his Saints. The Lord help you and us to return praises, to live them all our dayes. Salute all our deere friends with you, as if I named them. I have no more but rest.</p>
+            <closer>
+               <signed>Your loving Father and true<lb/> friend,<lb/> O. CROMWELL.</signed>
+               <dateline>
+                  <hi>Dunbar</hi>
+                  <date>
+                     <hi>Sept.</hi> 4.<lb/> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:65024:10"/>
+            <head>A Proclamation for a day of publique Thanksgiving to be on Thursday <hi>November 7. 1650.</hi> For the great successe God hath given to the English Army in <hi>Scotland.</hi>
+            </head>
+            <byline>By the Deputy Generall of Ireland.</byline>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough God hath not been pleased to grant that, which in our late Publique Addresses to him was (I hope with sincerity) desired by us, for the preventing of Engagement unto blood betwixt our Ar<g ref="char:EOLhyphen"/>my in <hi>Scotland,</hi> and those of that Nation that professe his feare; But hath seene it good (for the further discovering of the hipocrisy of them, that for the promoting of their owne worldly Interests, doe abuse his Name, and make use of the most specious Pretences of Religion, and God<g ref="char:EOLhyphen"/>lynesse, for their corrupt ends) to suffer their proceedings there, unto such an issue of warre as we heartily wished might have been avoyded, Yet, on the other part, he hath been pleased to answer the Prayers, And indeed to exceed the weake faith, and expectations of us and others his poore people who have sought him in that behalfe, By witnessing many wayes to that which is indeed his owne and his peo<g ref="char:EOLhyphen"/>ples Cause, and to that measure of Integrity he hath given to his poore servants that have followed him therein, and against both the Persons, and pretences of all that oppose the same, and especially (when it came to a grand ingagement in the Field) By giving to our Army there, not onely a deliverance from the streights and extremities, as well as from the Enemyes wherewith they were surrounded, And ready to have been destroyed, But also a totall and easy victory over the Enemyes Army (though double to them in number, And haveing all outward advantages on their part) as is at large set forth in the Lord Generalls Letter to the Parliament, and the Parliaments Act for a publique Thanksgiving thereupon, both which for more generall notice throughout this Dominon, I have caused herewith to be re<g ref="char:EOLhyphen"/>printed.</p>
+            <p>Now these are therefore further added to excite all persons within this Domini<g ref="char:EOLhyphen"/>on, who have hearts in any measure capable of it unto a due sence, and considerati<g ref="char:EOLhyphen"/>on of the glorious workings of God in these things; And that they may more fully appeare to be such I desire that these (amongst other things tending to set forth the same) may be especially taken notice of, and considered.</p>
+            <p n="1">1. That as the marching of our Army into <hi>Scotland</hi> was not from any desires of obtaining Dominion, or other worldly advantages over that Nation, but meerely to prevent their Invading us againe (which they had done so lately before upon the very same score and under the same pretexts, as they were againe (but with greater advantage and more heightned pretentions of the same kinde then before) formeing and preparing all things unto, so as by their Transactions with their King,
+<pb facs="tcp:65024:10"/> and many other wayes; All men not onely in <hi>England, Scotland</hi> and <hi>Ireland,</hi> but even throughout Europe, did take notice and understand it so and to have obtayned se<g ref="char:EOLhyphen"/>curitie, or assurance to <hi>England</hi> against the like invasions from that Nation (though to the declining or remitting of our just demands, of satisfaction for the former dammages and violations (to the Truth of all which in the Intentions of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> &amp; their Army God hath now most graciously testified) so it pleased God both to carry forth the Army thither with a Spirit of Prayer for Peace, and A<g ref="char:EOLhyphen"/>greement (if it might be) with all that appeared godly in <hi>Scotland,</hi> and for the reall good of them as for their owne, and (when they were there) to carry themselves on with bowells of Love towards all such in that Nation, and all Tendernesse towards the generallity of that people nowithstanding the so much contrary Practise of their former, and last Army in <hi>England,</hi> and great Provocations of our men to the con<g ref="char:EOLhyphen"/>trary from the People of <hi>Scotland</hi> wherever they came) and to incline and guide them both in their Declarations, Letters and other intercourses and also by their whole carriage, and deportment to seeke Peace, and Agreement with the satisfie<g ref="char:EOLhyphen"/>ing and undeceiving of any such who (meaning well to our first Common Cause) had really stumbled and taken offence at any carriages of things in <hi>England,</hi> and so to make all faire Tenders and try all meanes possible (without subjecting or expo<g ref="char:EOLhyphen"/>seing <hi>England</hi> to a forreigne power, or deserting the worke of God, and Interest of his People) to have obteined that Agreement and security they came for (if it had beene the will of God) without engagement unto blood betwixt them and the Parties professing Godlinesse in <hi>Scotland,</hi> yet all this would availe nothing with them who (it seemed) had nothing but War in theire hearts, and the worldly ad<g ref="char:EOLhyphen"/>vantages expectable thereby in their eyes, although they had the Confidence to dissemble it before the allseeing God, and the discerning world.</p>
+            <p n="2">2. That before this great ingagement that Party in <hi>Scotland</hi> resolving with them<g ref="char:EOLhyphen"/>selves to carry on their whole businesse with a faire forme of Godlinesse and an ap<g ref="char:EOLhyphen"/>pearance of holding true to their former professions, that way thereby to gaine the better Party both in <hi>England,</hi> and elsewhere to favour and further their procee<g ref="char:EOLhyphen"/>dings (and indeed resting too-much in (if not minding onely) that bare forme, and appearance, and conceiveing it necessary (in conformity thereunto) that be<g ref="char:EOLhyphen"/>fore them avowed owneing of their young Kings Interests against the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> he should not only subscribe the severall Covenants in which they formerly were engaged, but appeare as a man really, and from inward di<g ref="char:EOLhyphen"/>vine Conviction brought over thereunto; and for that purpose should both dis<g ref="char:EOLhyphen"/>claime his former evill Councells, and wayes in opposition thereunto, and professe (as a man Divinely converted) a deepe sence of and repentance for the great guilt and sinns both of himselfe, his Father, Mother, and his Fathers house in that kinde, wherewith those of <hi>Scotland</hi> had so often, and so deepely charged them before the world as could not be retracted) they therefore formed a Declaration to that pur<g ref="char:EOLhyphen"/>pose, for him to owne and signe, which indeed as it holds forth the fairest sem<g ref="char:EOLhyphen"/>blance that may be of such a thing so (in the whole Tenor of it) it carryes such an exact and formall conterfeite of a Divine conversation and repentance, as one would thinke none but such as had a reall taste thereof in themselves, could devise;
+<pb facs="tcp:65024:11"/> Which Declaration, against his Nature and heart (as by his severall refusalls there<g ref="char:EOLhyphen"/>of, and many other wayes is too evident) they haveing him in their Power did by threats, and otherwise necessitate him at last to signe, and publish as his owne, and haveing therein fulfilled their intended forme and brought him to this verball conformitie thereunto (Though they could not but see how farr it was from his heart) they now owned him, and held him forth to the People as a man really con<g ref="char:EOLhyphen"/>verted and brought over to the Cause of God, and under such a Notion began Publickly to owne him and that which was the Interest of him, and his Father in other things; which bold Hypocrisy, and shamelesse abuse of Gods holy Name did indeed ripen them for Gods Righteous Iudgments and (when with appeales to him thereupon Haveing thus prepared all things, as they conceived sutable to their designed forme, they came forth with Confidence, to fight our Army) It is good that all men take notice, how God met with it, and severely witnessed against the Same.</p>
+            <p n="3">3. That when by such their specious carriage of their whole businesse in order to the stateing of their intended Warr against us, added to the strange representations which they and other of their Temper, and Interest, had made of the late great Transactions in <hi>England</hi> (in putting the Late King to death, and changeing (in part) the forme of Government (there) most men were apt to conceive (as it has beene the great endeavor both of them and all the Royallists and Discontented par<g ref="char:EOLhyphen"/>ties every where to make it beleived) that there was now a totall change of the Cause and Interest on our Parts, as well as of the persons or Parties now engaged against us, and that we were become breakers of the Covenant, Backsliders from God, and his Cause, and Apostates from the principles, and ends of our first com<g ref="char:EOLhyphen"/>mon engagement, and thereupon to expect an Answerable change of Successe therein, to our ruine; (So as many good men were much at a stand, and their hearts apt to faint through doubtfull apprehensions thereof) It pleased God thus seasonably to come in, and give a cleare Testimony that (as through his grace, we had acted in Truth of heart for the same first ends of Publique good to men, with safety and wellfare to the People of God and glory to his Name therein so,) he was still the same God unto us, vouchsafeing the same presence still amongst us, and Carryeing us on in the same spirit, and with the same successe, as formerly, and giveing a Change, both to the spirit in acting, and also to the successe of those en<g ref="char:EOLhyphen"/>gaged against us, in Comparison to what they had in former engagements against that Party, and Cause, with which (though they endeavoured to Dissemble it) They were now really united.</p>
+            <p n="4">4. That while our Army was in it's full strength &amp; Vigour God would not suffer it to come to any such Engagement, but saw it good first, both to exercise their Faith and Patience in following, and Trusting him throuh manifold hardships, &amp; Difficulties, and to bring them to great streights, and dangers of utter ruine, and when they were reduced to the greatest weaknesse, and the Enemy swollen to their full expected strength and accompanied with all visible Advantages, (in both which they appeared to be exalted with Pride, and fleshly Confidence, So as even to Triumph before the Victory) then to give that great successe against them,
+<pb facs="tcp:65024:11"/> so as it might appeare a deliverance as well as Victory, and that men might more clearly see it to be the worke of his hand, and not wrought by Prevalence in fleshly power.</p>
+            <p n="5">5. That after all provocations from that People, and the Advantages now gained over them, God is pleased to Keepe yet his poore Servants in our Army, as from being exalted in themselves before him so from Insulting or Domineering over that People, or useing those Advantages to their oppression or ruine &amp; to pre<g ref="char:EOLhyphen"/>serve in his Servants the same Bowells of Love towards those that may yet be found truly Godly in <hi>Scotland,</hi> and of Compassion, and Tendernesse towards their De<g ref="char:EOLhyphen"/>luded Enemy there, as is expressed (amongst other things) by the Care of their Wounded, Weake, or Aged Prisoners; and the free Release of Thousands of them being found in such a condition; Now from these and other such Considerations of this glorious working of God, I desire that all men within this Dominion (as it Concernes all every where, (so farr as the Notice of it shall extende) may be a<g ref="char:EOLhyphen"/>wakned, (at last) to see and acknowledg his hand, that is so eminently lifted up, and may discerne him as he is pleased to come forth more visibly then in former Ages to execute Righteous Iudgments in the world, and may learne to Tremble, and feare before his Dreadfull Presence (when he appeares so neere at hande to take notice of the wayes, and pretentions of men when they appeale to him) and may take warning henceforth not to Date so to take his Name in vaine, or to a<g ref="char:EOLhyphen"/>buse it in Hypocrisy, or to cover any crooked, or Corrupt Designes with false pretences of Religion, that all those who professe Godlinesse may take heed of rest<g ref="char:EOLhyphen"/>ing in the forme thereof, or goeing about to set that up against the power of it, or of closeing and taking parte (for worldly Interests sake) with wicked men or any Corrupt Powers of the World in their wayes of opposition against God, and the True Spirituall Kingdome of Christ his Sonne, in, and over the hearts of his People least they also be pertakers of their Plagues in the Day of his sore Visitation; And that all that Truly love and feare the Lord, may be stirred up, and be enlarged in their hearts to rejoyce and blesse and prayse his Name for ever for his Righteous Iudgments in their behalfe, and for his goodnesse, and faithfullnesse towards those, whose hearts he hath Drawne forth to seeke and serve him, may be established in their faith, and Patience to follow and Trust him, and waite for his more full ap<g ref="char:EOLhyphen"/>pearance, and may be provoked to more Zeale of his glory, and to a Godly Ielou<g ref="char:EOLhyphen"/>sie over their hearts, and wayes that they may not be, (or walke) unworthy of his glorious presence amongst them, and Dispensations of Mercy and goodnesse towards them, but may obtaine grace to bring forth fruits in some Measure an<g ref="char:EOLhyphen"/>swerable therunto.</p>
+            <p>For the furtherance of these ends, &amp; Considering the greatnesse of this Mercy, &amp; of what Vast importance it is, and further consequence it may be, to the security and great good not only of the Commonwealth of <hi>England,</hi> and all that have Inte<g ref="char:EOLhyphen"/>rest in it (both there and here) but also of all the People of God every where; (the Parliament by the Act herewith Printed haveing appointed a Day for Publique Thanksgiving which is already past before there could be a generall notice of it in this Nation) I have thought it my duty to appoint a further day for the same purpose
+<pb facs="tcp:65024:12"/> to be observed within this Dominon, And doe hereby accordingly appoint Thurs<g ref="char:EOLhyphen"/>day the seauenth day of November next ensueing to be set a part, and observed as a day of Publique Thanksgiveing upon the foresaid occasion in the said Act and Letter of the Lord Lieutenants recited and for the ends, and purposes in that Act contained, at which tyme more especially (Though I wish it may at no time be neglectd or forgotten) I Desire all Officers and Souldiers, and others under the obe<g ref="char:EOLhyphen"/>dience of the Parliament in the severall Garrisons and Quarters throughout this Dominion, and especially those who are acquainted with the Lord to endeavour (as God by his spirit shall enable them) to tender hearty Thankes, and prayse unto his holy Name for those great Mercies and glorious workings of his, to acknowledg and Testifie to each other, and before him, his sole Power, Wisdome, Goodnesse. Righteousnesse, and Faithfulnesse appearing therein, to provoke, and stirr up one another to a due sence, and consideration thereof that it may have impression upon all our hearts and never be forgotten.</p>
+            <p>And upon this occasion I desire also that wee may call to remembrance his many other glorious and gratious workings with and for us, &amp; other his poore Servants upon our manifold engagements in his Cause both in this and our Native Coun<g ref="char:EOLhyphen"/>try, and that wee may implore, and importune him (by the sure argument of his free Covenant of grace with his People in Iesus Christ) that he who doth these great and glorious things, for his owne name sake in behalfe of his People and against their Enemies would also in his due time worke all suteable effects, and impressi<g ref="char:EOLhyphen"/>ons, and bring forth all answerable fruites of them in all sorts of men: and (as all o<g ref="char:EOLhyphen"/>thers so) those especially which I have here before desired they may (according to theire severall Conditions and Capacities) be awakened, and stirred up unto from the Considerations aforegoeing, And that he would still pitty the weaknesses, and frailties of his poore Servants, and Pardon the many Provocations by which wee have, and doe still requite him evill (especially in our aptnesse so soone to forget him and his Mercies, and to repine, and Distrust in straights or Difficulties) That wee may henceforth abstaine from murmuring against so good a God, who hath never left those that have patiently waited upon him in distresses That he would vouch<g ref="char:EOLhyphen"/>safe still to abide with us, and Continue his blessing and presence unto us, and all others, who labour in his Cause, to the compleating of his worke with Peace (if it be his will) in these Nations; That he would purge out wickednesse, and in<g ref="char:EOLhyphen"/>niquity from amongst us, more, and more, quicken and strengthen us to every good way, and worke, and make us, more fit for him yet further to use and owne, and Communicate himselfe unto: And (for our Brethren of the Army in <hi>Scotland</hi>) that he would still carry them on and enlarge them in the same spirit of faith, and prayer of humility selfe-denyall and liveing above all the Advantages and Tempta<g ref="char:EOLhyphen"/>tions of the world, in continued Love, and tendernesse of heart and way towards such as professe (and may yet be truely possessed with, his feare in that Nation, that if it be his will none such may continue engaged in crooked corrupte or deceitfull wayes, or united in councells and interest with ungodly and wicked men, That En<g ref="char:EOLhyphen"/>vyings, heart-burnings, strife and debate betwixt his People may be laid aside, and Cause, and that in Mercy they may be called and gathered together in one,
+<pb facs="tcp:65024:12"/> from amongst the men of this world by the spirit, and good hand of the Lord, to rejoyce and praise his Name together, and hold fast the unity of the faith, in the Bond, of Peace, and Love: And (for our selves perticularly in this Nation) that he would be pleased to let us understand more of his minde, and will, concerning his worke, and our proceedings therein here, and give us hearts to doe his Worke, and fulfi l his will with faithfulnesse and diligence, and to endure all hardships, and encounter streights, and difficulties for his sake without repineinges, yea with rejoyceing so to suffer for him; That he would shew, and teach us in all things what he would have us doe, and how he would have us deale with the People of this Nation that if it be his will, we may be instrumentall for their good; rather then Distruction; And hee would be pleased at last to open their eyes to see their owne Darknesse and Bondage with the Corruption of their wayes, and enlarge their hearts to the imbraceing of the Gospell in the Truth, and spirit, and Power of it, and that (with removeall of their, and our sinns that provoke him to Iudge<g ref="char:EOLhyphen"/>ment, he would be pleased to take off, and cease his sore Visitation in the plague from all places amongst us, and especially to spare his poore People that serve him in this Cause; And for his gratious beginnings of abatement thereof in many pla<g ref="char:EOLhyphen"/>ces, and totall Ceaseing of it in some (as at <hi>Clonmell, Kilkenny, VVaterford,</hi> &amp;c) as we have cause to owne the same, as a fruite and answer to our poore prayers, in our late dayes of humiliation: So I desire it may be parte of the Matter of that dayes Thanksgiveing.</p>
+            <p>And lastly let us especially begg of him that our thankfulnesse may not rest or terminate in the words, or services of a day, but that we may (Through his grace) live to his praise all our dayes, and our Conversations may be as a continuall Song of praise for his great goodnesse to his People, and for his Righteous Iudgments, and wondrous workings, in our dayes amongst the Children of men.</p>
+            <p>Now for the better observation of the said day, as appointed, I doe hereby in<g ref="char:EOLhyphen"/>hibit, and forbid, the holding or useing of any Faires, Marketts, or servile workes of mens ordinary callings upon that day. And all Officers both Military and Civill in their severall places within this Dominion are hereby required to take espe<g ref="char:EOLhyphen"/>ciall care of the due observation of the said day of Thanksgiveing accordingly, for more generall and speedy notice thereof, I doe further appoint that this Procla<g ref="char:EOLhyphen"/>mation be forthwith Printed, and Published.</p>
+            <closer>
+               <dateline>Given at the Campe neere <hi>Lymrick</hi>
+                  <date>the Twelfth day of <hi>October.</hi> 1650.</date>
+               </dateline>
+               <lb/>
+               <signed>H. IRETON.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
